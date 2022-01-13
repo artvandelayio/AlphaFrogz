@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xd9AEa3f2C4BeE243802A5448420857bBf922aaE6",
-  "SCAN_LINK": "https://etherscan.io/address/0xd9aea3f2c4bee243802a5448420857bbf922aae6",
+  "CONTRACT_ADDRESS": "0xc49eB85719CAC367188b879Ee86f0D4E3249dc74",
+  "SCAN_LINK": "https://etherscan.io/address/0xc49eB85719CAC367188b879Ee86f0D4E3249dc74",
   "NETWORK": {
     "NAME": "mainnet",
     "SYMBOL": "ETH",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "Alpha Frogz",
   "SYMBOL": "AlphaFrogz",
-  "MAX_SUPPLY": 500,
-  "WEI_COST": 40000000000000000,
-  "DISPLAY_COST": 0.04,
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/wrestlingsuperstarspass",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alphafrogz",
   "SHOW_BACKGROUND": true
 }
